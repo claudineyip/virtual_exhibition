@@ -69,7 +69,7 @@ metadata-facets-fields: "subject,creator,format"
 # NAVBAR COLORS
 # If you'd like to change the color of the nav-bar and links, adjust the below. 
 # Choose from "navbar-light" for use with light background colors, or "navbar-dark" for dark background colors
-navbar-color: navbar-light
+navbar-color: navbar-dark
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
 navbar-background: bg-dark
